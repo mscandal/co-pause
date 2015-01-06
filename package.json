@@ -1,7 +1,8 @@
 {
   "name": "co-pause",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
+  "description": "`co-pause` is a node module to defer generators until an event is fired",
   "dependencies": {},
   "devDependencies": {
     "co": "^4.1.0"
