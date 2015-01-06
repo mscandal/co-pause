@@ -1,6 +1,6 @@
 {
   "name": "co-pause",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "dependencies": {
     "co": "^4.1.0"
